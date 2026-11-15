@@ -12,9 +12,9 @@
 
 **Model mekanika dan optika.** Pelat elastis isotropik, tipis, jari-jari `a`, tebal `t`, tepi dijepit, tekanan seragam `q`, lendutan kecil:
 
-\[
+$$
 D=\frac{Et^3}{12(1-\nu^2)},\qquad w(r)=\frac{q(a^2-r^2)^2}{64D}.
-\]
+$$
 
 Interferometri refleksi normal: `φ(r) = 4π w(r)/λ0`. Kamera: `Ik=A+Bcos(φ+δk)+ηk`. Indeks bias medium 1; pengukuran relatif terhadap permukaan luar pelat yang dianggap datar.
 
